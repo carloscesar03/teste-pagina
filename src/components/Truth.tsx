@@ -38,6 +38,10 @@ export default function Truth() {
                 <p className="text-xl font-bold text-gray-300 mb-2">O CONHECIMENTO DEFINITIVO POR APENAS:</p>
                 <p className="text-4xl font-black text-green-400 uppercase">R$ 17,00</p>
                 <p className="text-sm font-medium text-green-500 mt-2">Pagamento Único. Sem mensalidades.</p>
+                
+                <a href="https://lastlink.com/p/CA5B2A829/checkout-payment/" className="btn-pulse-green mt-6 inline-block w-full bg-green-600 hover:bg-green-700 text-white font-black py-4 px-8 rounded-lg shadow-[0_0_20px_rgba(34,197,94,0.3)] transition-all text-lg uppercase tracking-wider">
+                    QUERO ME TORNAR INESQUECÍVEL
+                </a>
             </div>
         </div>
     </section>
